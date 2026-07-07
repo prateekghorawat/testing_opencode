@@ -1,0 +1,12 @@
+# Python Virtual Environment
+mcp_ai_project/mcp_ai_env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Environment Variables File
+.env
+
+# Local configuration files
+*.local
